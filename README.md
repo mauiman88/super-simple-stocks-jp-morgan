@@ -27,9 +27,3 @@ Constraints & Notes
 2. No database or GUI is required, all data need only be held in memory
 
 3. Formulas and data provided are simplified representations for the purpose of this exercise
-
-Fixed 
-
-Dividend 
-
-Par Value
